@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hedi-houissa
-- 👀 I’m interested in ReactJS , Angular , NodeJs , SpringBoot
-- 🌱 I’m currently learning MERN in Go My Code
+- 👀 I’m interested in ReactJS , NextJS , Angular , NodeJs , NestJS , SpringBoot
+- 🌱 I am currently seeking freelance opportunities.
 - 💞️ I'm full-stack web developer, looking for collaboration
 - 📫 How to reach me (houissahedi@gmail.com or 216 50 447 085)
 
